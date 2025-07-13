@@ -219,6 +219,10 @@ function extractSections(text) {
   return output;
 }
 
+app.get('/', (req, res) => {
+  res.send('🎯 Resume Parser API is running successfully!');
+});
+
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 Server running on port ${PORT}`);
   console.log(`MongoDB URI: ${MONGODB_URI}`);
