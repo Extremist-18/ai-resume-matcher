@@ -47,7 +47,7 @@ function App() {
     try {
       const formData = new FormData();
       formData.append('resume', selectedFile);
-      const response = await axios.post('http://localhost:4001/upload', formData, {
+      const response = await axios.post(`${process.env.REACT_APP_API_URL}/upload`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
       setExtractedData(response.data);
@@ -71,7 +71,7 @@ function App() {
       const formData = new FormData();
       formData.append('resume', selectedFile);
       formData.append('job', jdFile);
-      const response = await axios.post('http://localhost:4001/match', formData, {
+      const response = await axios.post(`${process.env.REACT_APP_API_URL}/match`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
       setMatchResult(response.data);
