@@ -1,4 +1,4 @@
-##**AI Resume Matcher**
+**AI Resume Matcher**
 --------------------------------------------------------------------------------------------------------------------------------
 A smart web application that analyzes resumes against job descriptions, scores the alignment, and gives personalized suggestions to improve your chances of landing your dream job.
 
