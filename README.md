@@ -2,8 +2,8 @@
 --------------------------------------------------------------------------------------------------------------------------------
 A smart web application that analyzes resumes against job descriptions, scores the alignment, and gives personalized suggestions to improve your chances of landing your dream job.
 
-[Live Demo](https://ai-resume-matcher-frontend.onrender.com)
-[Backend](https://ai-resume-matcher-xcxo.onrender.com)
+[Live Demo](https://resumematcher-w7dr.onrender.com/)
+[Backend](https://ai-resume-matcher-xcxo.onrender.com/)
 
 ---
 
@@ -53,5 +53,8 @@ A smart web application that analyzes resumes against job descriptions, scores t
 
 
 
+
+
+Link: https://resumematcher-w7dr.onrender.com/
 
 If you liked this project, kindly support.
