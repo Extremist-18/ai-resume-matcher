@@ -13,7 +13,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:3000',
+  origin: 'https://resumematcher-w7dr.onrender.com',
   credentials: true
 }));
 app.use(cors());
