@@ -1,5 +1,5 @@
-**AI Resume Matcher**
-
+##**AI Resume Matcher**
+--------------------------------------------------------------------------------------------------------------------------------
 A smart web application that analyzes resumes against job descriptions, scores the alignment, and gives personalized suggestions to improve your chances of landing your dream job.
 
 [Live Demo](https://ai-resume-matcher-frontend.onrender.com)
@@ -7,7 +7,7 @@ A smart web application that analyzes resumes against job descriptions, scores t
 
 ---
 
-## ✨ Features
+**Features**
 
 - Upload PDFs your resume and job description.
 - Uses Gemini 2.5 Flash API to intelligently:
@@ -20,7 +20,7 @@ A smart web application that analyzes resumes against job descriptions, scores t
 
 ---
 
-## 🧰 Tech Stack
+**Tech Stack**
 
 | Frontend        | Backend             | AI/NLP + APIs       |
 |-----------------|---------------------|---------------------|
@@ -30,7 +30,7 @@ A smart web application that analyzes resumes against job descriptions, scores t
 
 ---
 
-## 🧪 How It Works
+**How It Works**
 
 1. User uploads resume and job description PDFs.
 2. Resume Parser extracts key information from resume (skills, experience, etc.).
@@ -45,10 +45,13 @@ A smart web application that analyzes resumes against job descriptions, scores t
 
 ---
 
-## 📸 Screenshots
+**Screenshots**
 
-<img width="1786" height="942" alt="image" src="https://github.com/user-attachments/assets/9f49ed69-d6c2-4f33-abd8-d5074d3578e2" />
 <img width="1601" height="945" alt="image" src="https://github.com/user-attachments/assets/ebd14455-43d5-49bf-b881-7e15b7fd9f7d" />
+
+--------------------------------------------------------------------------------------------------------
+
+
 
 
 If you liked this project, kindly support.
